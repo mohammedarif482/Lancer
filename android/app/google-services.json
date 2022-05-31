@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315375206298",
+    "project_id": "lance-da90b",
+    "storage_bucket": "lance-da90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315375206298:android:0ccfa094260d405ece0423",
+        "android_client_info": {
+          "package_name": "com.example.lancer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315375206298-dp6nlkv9ia54bruodh5gohkp5uqaelpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lancer1",
+            "certificate_hash": "3616db2401d23aaedbaf6bf47e308dbe665c4929"
+          }
+        },
+        {
+          "client_id": "315375206298-r81tokjht5itlq06do74boqikov1ueur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXaIh3aX7wsrAHKgQiavl5HYwThTI64a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315375206298-r81tokjht5itlq06do74boqikov1ueur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
