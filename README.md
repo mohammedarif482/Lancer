@@ -1,16 +1,11 @@
-# lancer1
+# LANCER
 
-A new Flutter project.
+Freelancer's Market Platform.
 
-## Getting Started
+An Android application where freelancer can sell their freelance service and other users can buy
 
-This project is a starting point for a Flutter application.
+#Google SignIn
+#OTP
+#Chat
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
